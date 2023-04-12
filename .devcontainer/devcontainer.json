@@ -6,9 +6,7 @@
 
   // Universal is well-customized image for Codespaces:
   // https://hub.docker.com/_/microsoft-devcontainers-universal
-  // NOTE: This may cause a caching problem? Trying to use '2'.
-  //"image": "mcr.microsoft.com/devcontainers/universal:2.2.9",
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "mcr.microsoft.com/devcontainers/universal:2.2.9",
   //"features": {
   //  "ghcr.io/devcontainers/features/ruby:1": {}
   //},
